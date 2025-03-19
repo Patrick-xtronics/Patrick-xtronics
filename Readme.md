@@ -14,7 +14,7 @@
  </div><br>
 
 <h2>🤖💻📲🔋🦾</h2>
-<p>Meu foco é do Back ao Front. Gosto de Web/Mobile, Sistemas, BD, Machine Learning, UI/U, Design Gráfico e Digital. Procuro aprender e me atualizar a todo momento!</p>
+<p>Meu foco é do Back ao Front. Gosto de Web/Mobile, Sistemas, BD, Machine Learning, UI/UX, Design Gráfico e Digital. Procuro aprender e me atualizar a todo momento!</p>
  
 ### Me siga nas redes!
  

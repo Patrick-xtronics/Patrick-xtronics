@@ -9,6 +9,7 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,7 +17,7 @@
  </div><br>
 
 <h2>🤖💻📲🔋🦾</h2>
-<p>Meu foco é programação,gosto de Back-End,Front-End e automação. Tenho interesse em Web/Mobile, Sistemas, BD, I.A, Machine Learning, UI/UX e CyberSecurity. Procuro aprender e me atualizar a todo momento!</p>
+<p>Amo tecnologia, foco em programação Full-Stack, Sistemas, Automação, IOT, IA, BD e CyberSecurity. Busco uma oportunidade para agregar meus conhecimentos e somar junto ao time de engenharia e tecnologia. Procuro aprender e me atualizar a todo momento!</p>
  
 ### Me siga nas redes!
  

@@ -17,7 +17,7 @@
  </div><br>
 
 <h2>💻📲</h2>
-<p>Amo tecnologia, busco sempre me atualizar constantemente. Meu foco é desenvolvimento Back-End com C# .NET, ASP.NET Core, Javascript e Python. Também busco conhecimento em Front-End com Html, Css e Javascript. Busco oportunidades de Desenvolvedor Jr, Estágio em Engenharia de Software ou Estágio em Desenvolvimento.</p>
+<p>Amo tecnologia, busco sempre me atualizar constantemente. Meu foco é desenvolvimento Back-End com C# .NET, ASP.NET Core, MVC, Javascript. Também busco conhecimento em Front-End com Html e Css. Busco oportunidades de Desenvolvedor Jr, Estágio em Engenharia de Software ou Estágio em Desenvolvimento.</p>
  
 ### Me siga na rede!
  
